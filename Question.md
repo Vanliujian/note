@@ -72,3 +72,8 @@ setbit key 18 1# 11001000 01000000 00100000
 127.0.0.1:6379> bitcount key -2 -1 # 负数照用
 (integer) 2
 ```
+
+# AOF持久化
+
+ <img src="00.Image/image-20210311194216757.png" alt="image-20210311194216757" style="zoom: 67%;" />
+
