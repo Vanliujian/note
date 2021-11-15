@@ -12,6 +12,10 @@
 
 
 
+> 这个BaseServlet也可以进行子类的共有操作，比如序列化json，并返回给客户端
+
+
+
 > BaseServlet
 
 ```java
